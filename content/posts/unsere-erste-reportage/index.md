@@ -4,6 +4,7 @@ date = "2023-04-04"
 draft = true
 pinned = false
 tags = ["Reportage"]
+image = "https://cdn.myportfolio.com/b7c14089fd3acfd3c5aad8e9cc4cb1fb/ee755b0a-279d-4b94-a6ee-f33639ec8ed0_rw_3840.png?h=eadb1ddb238643debf7849db4ac946b4"
 description = "Unsere Reportage zum Thema \"Luzides Träumen\"."
 +++
 # **Jederzeit wach, sogar während dem Schlafen!**
@@ -13,8 +14,6 @@ description = "Unsere Reportage zum Thema \"Luzides Träumen\"."
 Die volle Kontrolle? Totale Freiheit ohne Konsequenzen? Um dieses Thema geht es in unserer Reportage. Unser Ziel ist es zu ermitteln, ob das luzide Träumen erlernt und trainiert werden soll. Das Luzide Träumen meint den geistigen Wachzustand im Traum, also das bewusste Träumen. Wenn wir morgen aufwachen können wir uns normalerweise nicht erinnern, was wir geträumt haben. Wenn uns dies aber gelingt, haben wir einen Klartraum erlebt. Ein luzider Traum ist ein Traum, an den man sich am nächsten Tag erinnern kann und welcher unter gegebenen Umständen verändert und gesteuert werden, gewisse Elemente wie z.B. die Physik sind im Traum gegeben, diese müssen aber nicht der Realität entsprechen. Bei der Traumkontrolle gibt es vermeintlich keine Grenzen, vorhanden sind jedoch Einschränkungen wie beispielsweise eine starke Gravitationskraft, die beispielsweise das Springen verhindern kann. Diese Art von Traum entsteht laut den aktuellen Erkenntnissen der Wissenschaft in der REM-Phase. Der REM-Schlaf gilt als essenziellster Schlafabschnitt, da hier mutmasslich die Geschehnisse und Emotionen des Tages sortiert und verarbeitet werden (Quelle: betten.de).
 
 Der wichtigste Teil des luziden Traums ist es, diesen als solchen zu erkennen, dazu gibt es verschiedene Tests, die sogenannten Reality-Checks. Mit diesen Checks überprüft man, ob man sich in einem Traum befindet. Beispielsweise kann der Träumende versuchen den Finger durch einen Tisch zu stossen, die Finger an einer Hand zu zählen oder Ausschau nach abstrakten Dingen zu halten, die in der Realität so nicht existieren. Über diese Tests hat uns Prof. Dr. Daniel Erlacher berichtet.
-
- 
 
 Luzide Träume können im Schlaflabor relativ einfach nachgewiesen werden. Dies geschieht mit Hilfe von befestigten Elektroden am Kopf, welche die Augenbewegungen messen. Die Augenbewegungen in einem luziden Traum unterscheiden sich von den Augenbewegungen in einem regulären Traum, die Bewegungen sind schneller und haben andere Muster. Spannend fanden wir, dass wenn Patienten ihre erste Nacht im Schlaflabor verbringen, sie sogenannte «Lab-Dreams» entwickelten und davon träumten, dass sie in diesem Schlaflabor waren usw.
 
