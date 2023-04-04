@@ -4,7 +4,7 @@ date = "2023-04-04"
 draft = true
 pinned = false
 tags = ["Reportage"]
-image = "https://cdn.myportfolio.com/b7c14089fd3acfd3c5aad8e9cc4cb1fb/ee755b0a-279d-4b94-a6ee-f33639ec8ed0_rw_3840.png?h=eadb1ddb238643debf7849db4ac946b4"
+image = "https://burst.shopifycdn.com/photos/wooden-beads-float-and-spell-out-dream.jpg?width=4460&height=4460&exif=1&iptc=1"
 description = "Unsere Reportage zum Thema \"Luzides Träumen\"."
 +++
 # **Jederzeit wach, sogar während dem Schlafen!**
